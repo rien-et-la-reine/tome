@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM5102A")(type "KiCad")(uri "${KIPRJMOD}/ul_PCM5102APW/KiCADv6/2025-05-22_18-19-42.kicad_sym")(options "")(descr ""))
+)
