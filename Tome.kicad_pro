@@ -402,28 +402,28 @@
       "Root"
     ],
     [
-      "48ca1010-2b1c-4f07-a9f5-ed8eedc71556",
-      "encoder_daughter_1"
-    ],
-    [
-      "d5b80208-5d77-4b07-9258-437f20b1fbbd",
-      "encoder_daughter_2"
-    ],
-    [
-      "a1b6d9f0-4777-4759-8444-48d1eb07e0ba",
-      "screen_left"
-    ],
-    [
-      "45cef6ec-fb3b-4f2e-bf5f-028b33c3ef73",
-      "screen_right"
+      "70ad74b6-7d6e-42de-a92a-6cae4a86bd4c",
+      "control_side"
     ],
     [
       "4b9dfd30-3edd-45e8-9d67-c2ad4f519ba5",
       "peripheral_side"
     ],
     [
-      "70ad74b6-7d6e-42de-a92a-6cae4a86bd4c",
-      "control_side"
+      "45cef6ec-fb3b-4f2e-bf5f-028b33c3ef73",
+      "screen_right"
+    ],
+    [
+      "a1b6d9f0-4777-4759-8444-48d1eb07e0ba",
+      "screen_left"
+    ],
+    [
+      "48ca1010-2b1c-4f07-a9f5-ed8eedc71556",
+      "encoder_daughter_1"
+    ],
+    [
+      "d5b80208-5d77-4b07-9258-437f20b1fbbd",
+      "encoder_daughter_2"
     ]
   ],
   "text_variables": {}
