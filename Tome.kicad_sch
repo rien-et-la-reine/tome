@@ -10,19 +10,9 @@
 		(company "rien+la_reine;")
 	)
 	(lib_symbols)
-	(text "TODO:\nbreak everything out into seperate sheets\nfor each seperate physical PCB"
+	(text "RIGHT\nmicrocontroller\nUSB-C port\nSD card\nrotary encoder 1\nbattery"
 		(exclude_from_sim no)
-		(at 50.292 109.982 0)
-		(effects
-			(font
-				(size 2 2)
-			)
-		)
-		(uuid "3440d5f5-f6f1-47d0-8b03-e413aa80f261")
-	)
-	(text "RIGHT\nmicrocontroller\nUSB-C port\nrotary encoder 1\nbattery"
-		(exclude_from_sim no)
-		(at 67.056 123.19 0)
+		(at 146.812 57.912 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -30,9 +20,9 @@
 		)
 		(uuid "402ef250-83a2-490b-9e09-b9c4dd4889c4")
 	)
-	(text "LEFT\naudio stuff\nSD card\nrotary encoder 2\napp switch"
+	(text "LEFT\naudio stuff\nrotary encoder 2\napp switch"
 		(exclude_from_sim no)
-		(at 34.544 123.19 0)
+		(at 57.404 55.372 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,7 +32,7 @@
 	)
 	(text "using GDEH0576T81 5.76\" SPI display"
 		(exclude_from_sim no)
-		(at 50.546 134.874 0)
+		(at 52.578 118.364 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -51,7 +41,7 @@
 		(uuid "92559819-c108-4d56-9027-301d1e50684a")
 	)
 	(sheet
-		(at 27.94 19.05)
+		(at 24.13 21.59)
 		(size 71.12 73.66)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -67,7 +57,7 @@
 		)
 		(uuid "4b9dfd30-3edd-45e8-9d67-c2ad4f519ba5")
 		(property "Sheetname" "peripheral_side"
-			(at 27.94 18.3384 0)
+			(at 24.13 20.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76,7 +66,7 @@
 			)
 		)
 		(property "Sheetfile" "peripheral_mainboard.kicad_sch"
-			(at 27.94 93.1686 0)
+			(at 24.13 95.7086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -93,7 +83,7 @@
 		)
 	)
 	(sheet
-		(at 114.3 19.05)
+		(at 110.49 21.59)
 		(size 72.39 73.66)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -109,7 +99,7 @@
 		)
 		(uuid "70ad74b6-7d6e-42de-a92a-6cae4a86bd4c")
 		(property "Sheetname" "control_side"
-			(at 114.3 18.3384 0)
+			(at 110.49 20.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -118,7 +108,7 @@
 			)
 		)
 		(property "Sheetfile" "control_mainboard.kicad_sch"
-			(at 114.3 93.1346 0)
+			(at 110.49 95.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
