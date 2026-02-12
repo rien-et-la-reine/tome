@@ -13185,7 +13185,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:Panasonic_EVQPUK_EVQPUB"
 			(at 67.31 52.07 0)
 			(effects
 				(font
@@ -16075,7 +16075,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 162.56 100.33 0)
 			(effects
 				(font

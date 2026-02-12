@@ -6566,7 +6566,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 111.76 104.14 0)
 			(effects
 				(font
@@ -8894,7 +8894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 187.96 72.39 0)
 			(effects
 				(font
@@ -10042,7 +10042,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_CK_JS102011SAQN"
 			(at 40.64 121.92 0)
 			(effects
 				(font
