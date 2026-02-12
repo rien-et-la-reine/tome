@@ -1297,7 +1297,7 @@
 			"AAAAAAAAAAAAAAAAAAAAAAAAoK7/D+pP77FoQ9giAAAAAElFTkSuQmCC"
 		)
 	)
-	(hierarchical_label "ENCODER_A"
+	(hierarchical_label "ENCODER_B"
 		(shape output)
 		(at 43.18 33.02 180)
 		(effects
@@ -1308,7 +1308,7 @@
 		)
 		(uuid "242e202b-1eeb-47c0-a1fb-4334bf6d5e84")
 	)
-	(hierarchical_label "ENCODER_B"
+	(hierarchical_label "ENCODER_A"
 		(shape output)
 		(at 83.82 33.02 0)
 		(effects
@@ -1502,10 +1502,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "339aeda8-a5d6-41cb-880d-812959945347")
 		(property "Reference" "SW6"
-			(at 69.85 41.9099 90)
+			(at 69.85 41.656 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1514,7 +1513,7 @@
 			)
 		)
 		(property "Value" "RotaryEncoder_Switch"
-			(at 69.85 44.4499 90)
+			(at 72.136 33.528 0)
 			(effects
 				(font
 					(size 1.27 1.27)
