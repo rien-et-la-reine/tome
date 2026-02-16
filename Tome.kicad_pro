@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.8,
-          "height": 2.0,
-          "width": 3.2
+          "drill": 0.0,
+          "height": 1.75,
+          "width": 1.125
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -76,7 +76,7 @@
         "hole_clearance": "error",
         "hole_to_hole": "warning",
         "holes_co_located": "warning",
-        "invalid_outline": "error",
+        "invalid_outline": "warning",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
