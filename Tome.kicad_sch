@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "2c6baa8c-bfd7-43e4-8688-255743ea3ca6")
 	(paper "A5")
 	(title_block
@@ -186,11 +186,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "4b9dfd30-3edd-45e8-9d67-c2ad4f519ba5")
 		(property "Sheetname" "peripheral_side"
 			(at 24.13 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -200,6 +202,8 @@
 		)
 		(property "Sheetfile" "peripheral_mainboard.kicad_sch"
 			(at 24.13 95.7086 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -228,11 +232,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "70ad74b6-7d6e-42de-a92a-6cae4a86bd4c")
 		(property "Sheetname" "control_side"
 			(at 110.49 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -242,6 +248,8 @@
 		)
 		(property "Sheetfile" "control_mainboard.kicad_sch"
 			(at 110.49 95.6746 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
