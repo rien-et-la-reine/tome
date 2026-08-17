@@ -94,14 +94,14 @@
 		(descr "USB 2.0 Type C Receptacle, GCT, 16P, top mounted, horizontal, 5A: https://gct.co/files/drawings/usb4105.pdf")
 		(tags "USB C Type-C Receptacle SMD USB 2.0 16P 16C USB4105-15-A USB4105-15-A-060 USB4105-15-A-120 USB4105-GF-A USB4105-GF-A-060 USB4105-GF-A-120")
 		(property "Reference" "J201"
-			(at 0 -5.5 180)
+			(at -0.010007 -5.329995 180)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "cd90554d-4775-4fbe-83f1-ee7728900db3")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -13466,13 +13466,13 @@
 		(descr "http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf")
 		(tags "SMD SMT SPST EVQPUK EVQPUB")
 		(property "Reference" "SW201"
-			(at -0.000001 -4.5 90)
+			(at -0.034999 -2.659999 90)
 			(layer "F.SilkS")
 			(uuid "45897acb-f8d1-4f7b-8d82-2228c4f612cf")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.5 0.5)
+					(thickness 0.125)
 				)
 			)
 		)
@@ -38990,10 +38990,10 @@
 		)
 		(polygon
 			(pts
-				(xy 263.91 33.75) (xy 255.64 33.72) (xy 255.65 31.47) (xy 254.9 31.46) (xy 253.11 33.24) (xy 253.1 37.84)
-				(xy 254.7 39.44) (xy 263.75 39.44) (xy 265.11 40.8) (xy 265.71 40.8) (xy 265.71 41.34) (xy 263.46 41.34)
-				(xy 263.081071 41.015203) (xy 253.192733 40.93838) (xy 250.948655 38.663026) (xy 250.965662 28.00005)
-				(xy 263.933256 28.059946)
+				(xy 265.748365 33.756669) (xy 255.64 33.72) (xy 255.65 31.47) (xy 254.9 31.46) (xy 253.11 33.24)
+				(xy 253.1 37.84) (xy 254.7 39.44) (xy 263.75 39.44) (xy 265.11 40.8) (xy 265.71 40.8) (xy 265.71 41)
+				(xy 263.073334 41) (xy 262.767917 40.738208) (xy 252.919854 40.661697) (xy 250.948655 38.663026)
+				(xy 250.965662 28.00005) (xy 265.771614 28.068437)
 			)
 		)
 	)
@@ -39063,6 +39063,27 @@
 		)
 	)
 	(zone
+		(net "+3V3")
+		(layer "F.Cu")
+		(uuid "926f8862-e499-4a34-9abc-661881e51998")
+		(hatch edge 0.5)
+		(priority 8)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 271.97 35.04) (xy 271.97 33.84) (xy 268.73 33.84) (xy 268.73 28.19) (xy 273.5 28.19) (xy 273.5 35.04)
+			)
+		)
+	)
+	(zone
 		(net "GND")
 		(layer "F.Cu")
 		(uuid "bcc62098-7e63-4985-b387-c038ec709525")
@@ -39093,14 +39114,14 @@
 			(clearance 0.5)
 		)
 		(min_thickness 0.25)
-		(fill yes
+		(fill
 			(thermal_gap 0.5)
 			(thermal_bridge_width 0.5)
 			(island_removal_mode 0)
 		)
 		(polygon
 			(pts
-				(xy 272.35 41) (xy 272.87 40.52) (xy 272.87 39.95) (xy 273.5 39.96) (xy 273.5 35.04) (xy 271.97 35.04)
+				(xy 272.35 41) (xy 272.87 40.52) (xy 272.87 39.95) (xy 273.5 39.96) (xy 273.5 34.78) (xy 271.97 34.78)
 				(xy 271.97 39.475) (xy 270.63 40.805946) (xy 270.63 41)
 			)
 		)
