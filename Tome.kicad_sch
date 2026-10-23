@@ -9,6 +9,8 @@
 		(date "2026-02-09")
 		(rev "1.0")
 		(company "rien+la_reine;")
+		(comment 3 "SPDX-FileCopyrightText: 2026 Harsh Patel")
+		(comment 4 "SPDX-License-Identifier: CERN-OHL-S-2.0")
 	)
 	(lib_symbols)
 	(text "RIGHT\nmicrocontroller\nUSB-C port\nSD card\nrotary encoder 1\nbattery"

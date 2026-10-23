@@ -9,7 +9,9 @@
 		(date "2026-02-09")
 		(rev "1.0")
 		(company "rien+la_reine;")
-		(comment 1 "using GDEH0576T81 5.76\" SPI display")
+		(comment 1 "using GDEH0576T81 5.76” SPI display")
+		(comment 3 "SPDX-FileCopyrightText: 2026 Harsh Patel")
+		(comment 4 "SPDX-License-Identifier: CERN-OHL-S-2.0")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x24_Socket"
