@@ -22,4 +22,4 @@ Source location: https://github.com/rien-et-la-reine/tome
 
 As per CERN-OHL-S v2 section 4, should you produce hardware based on this source, you must where practicable maintain the Source Location visible on the external case or other products you make using this source.
 
-Commits up to an including <8ce5c31> were published under CC BY-SA 4.0 and remain available under that licence.
+Commits up to an including `8ce5c31` were published under CC BY-SA 4.0 and remain available under that licence.
