@@ -33,6 +33,17 @@
 		)
 		(uuid "47f59dd4-9598-400e-9739-09a53683722b")
 	)
+	(text "TODO:\n- RP2350A + external flash and PSRAM -> RP2354B + external PSRAM\n- breakout power rail and a couple spare pins to encoder daughter as well\n- display 3 (outer side memory LCD/MIP)\n- hardware lid close sensor\n- PCB 4 layers\n- no screen daughterboards, FPC connector on \n  control/peripheral boards directly\n- encoders connect to main/peripheral with proper connector, \n  not header, mechanical mounting done seperately \n  (either with brackets or inner frame) -> do not mount to outer case\n- power circuits rework"
+		(exclude_from_sim no)
+		(at 13.462 117.856 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5764d2af-0233-4242-aab5-6b76eb51e720")
+	)
 	(image
 		(at 190.2 111.8)
 		(scale 0.113095)
