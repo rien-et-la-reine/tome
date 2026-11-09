@@ -10214,7 +10214,7 @@
 		(uuid "45659ec8-ad55-4c81-9116-800c6bbe2c8c")
 	)
 	(junction
-		(at 187.96 -63.5)
+		(at 158.75 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47bf3b08-72af-4246-b27b-77444bc3d756")
@@ -11505,7 +11505,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 -64.77) (xy 189.23 -63.5)
+			(xy 160.02 157.48) (xy 160.02 158.75)
 		)
 		(stroke
 			(width 0)
@@ -11585,7 +11585,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 -63.5) (xy 187.96 -63.5)
+			(xy 160.02 158.75) (xy 158.75 158.75)
 		)
 		(stroke
 			(width 0)
@@ -12715,7 +12715,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 -64.77) (xy 186.69 -63.5)
+			(xy 157.48 157.48) (xy 157.48 158.75)
 		)
 		(stroke
 			(width 0)
@@ -12985,7 +12985,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 -62.23) (xy 187.96 -63.5)
+			(xy 158.75 160.02) (xy 158.75 158.75)
 		)
 		(stroke
 			(width 0)
@@ -13405,7 +13405,7 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 -63.5) (xy 187.96 -63.5)
+			(xy 157.48 158.75) (xy 158.75 158.75)
 		)
 		(stroke
 			(width 0)
@@ -25410,7 +25410,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 187.96 -62.23 0)
+		(at 158.75 160.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25421,7 +25421,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9d70b25-10a4-4e24-9412-eddbd84ca1ce")
 		(property "Reference" "#PWR0238"
-			(at 187.96 -55.88 0)
+			(at 158.75 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25432,7 +25432,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 187.96 -57.15 0)
+			(at 158.75 165.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25442,7 +25442,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 -62.23 0)
+			(at 158.75 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25453,7 +25453,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 -62.23 0)
+			(at 158.75 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25464,7 +25464,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 187.96 -62.23 0)
+			(at 158.75 160.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
